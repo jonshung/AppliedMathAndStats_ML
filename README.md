@@ -4,7 +4,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<h3 align="center">Applied Math and Statistics for Information Techonology</h3>
+<h3 align="center">Applied Math and Statistics for Information Technology</h3>
 </div>
 
 <!-- ABOUT THE PROJECT -->
